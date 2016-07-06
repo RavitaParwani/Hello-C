@@ -2,7 +2,9 @@
 $include<conio.h>
 void main()
 {
+  int x=20,y=40;
   clrscr();
   printf("Hello!!!World");
+  printf("The sum of two numbers is :%d",x+y);
   getch();
 }
